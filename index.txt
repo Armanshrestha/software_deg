@@ -1,7 +1,3 @@
 hello
 
 test written 1
-
-test written 2 
-
-test written 3
